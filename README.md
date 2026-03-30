@@ -18,14 +18,3 @@ How can a small operations team quickly identify stock value, reorder risk, and 
 
 ## Skills demonstrated
 Excel, data cleaning, KPI tracking, formulas, basic dashboard design, operational analytics
-
-## Suggested GitHub repo name
-`inventory-analytics-dashboard`
-
-## How to showcase this on GitHub
-1. Upload both files to a new repository.
-2. Add screenshots of the dashboard to the README.
-3. In the repo description, mention that this project simulates inventory analysis for an operations environment.
-
-## Resume-ready description
-Built an Excel inventory analytics dashboard to track stock value, reorder risk, and category-level trends using formulas, tables, and charts.
