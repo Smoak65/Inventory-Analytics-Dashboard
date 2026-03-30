@@ -1,0 +1,61 @@
+SKU,Item Name,Category,Supplier,Unit Cost,Quantity On Hand,Reorder Point,Monthly Usage,Lead Time (Days)
+SKU-1001,Networking Item 1,Networking,NovaTech,8.4,78,30,20,7
+SKU-1002,Networking Item 2,Networking,NovaTech,123.1,147,20,43,16
+SKU-1003,Cable Item 3,Cables,NovaTech,20.49,67,47,44,3
+SKU-1004,Power Supplie Item 4,Power Supplies,Blue Ridge Parts,130.02,187,49,32,10
+SKU-1005,Controller Item 5,Controllers,Peak Systems,52.96,9,63,16,16
+SKU-1006,Sensor Item 6,Sensors,DataCore Supply,31.36,203,36,12,5
+SKU-1007,Controller Item 7,Controllers,NovaTech,67.18,96,53,22,4
+SKU-1008,Networking Item 8,Networking,Omni Industrial,98.38,104,20,41,12
+SKU-1009,Networking Item 9,Networking,Peak Systems,159.84,100,51,18,5
+SKU-1010,Cable Item 10,Cables,Blue Ridge Parts,140.06,28,69,20,6
+SKU-1011,Controller Item 11,Controllers,DataCore Supply,83.8,101,25,29,14
+SKU-1012,Switche Item 12,Switches,DataCore Supply,127.52,182,56,10,8
+SKU-1013,Power Supplie Item 13,Power Supplies,Blue Ridge Parts,32.76,105,32,46,20
+SKU-1014,Switche Item 14,Switches,DataCore Supply,152.34,206,18,20,4
+SKU-1015,Sensor Item 15,Sensors,Omni Industrial,51.12,62,51,51,13
+SKU-1016,Switche Item 16,Switches,Omni Industrial,73.63,172,44,15,11
+SKU-1017,Switche Item 17,Switches,Blue Ridge Parts,135.12,145,31,53,21
+SKU-1018,Controller Item 18,Controllers,Peak Systems,74.29,64,23,38,18
+SKU-1019,Cable Item 19,Cables,NovaTech,155.55,47,55,16,16
+SKU-1020,Power Supplie Item 20,Power Supplies,NovaTech,71.72,160,44,39,11
+SKU-1021,Power Supplie Item 21,Power Supplies,NovaTech,123.73,37,58,40,11
+SKU-1022,Networking Item 22,Networking,DataCore Supply,23.63,119,25,35,3
+SKU-1023,Networking Item 23,Networking,DataCore Supply,175.05,203,26,38,6
+SKU-1024,Networking Item 24,Networking,DataCore Supply,152.13,137,53,18,7
+SKU-1025,Sensor Item 25,Sensors,Blue Ridge Parts,98.93,207,48,6,13
+SKU-1026,Controller Item 26,Controllers,NovaTech,23.69,100,68,25,10
+SKU-1027,Cable Item 27,Cables,Blue Ridge Parts,158.53,28,20,52,18
+SKU-1028,Cable Item 28,Cables,Peak Systems,138.79,40,57,36,20
+SKU-1029,Switche Item 29,Switches,DataCore Supply,96.87,163,42,19,20
+SKU-1030,Networking Item 30,Networking,Blue Ridge Parts,129.48,110,57,47,14
+SKU-1031,Controller Item 31,Controllers,Peak Systems,83.46,71,29,10,13
+SKU-1032,Cable Item 32,Cables,Peak Systems,101.49,158,29,6,5
+SKU-1033,Networking Item 33,Networking,NovaTech,44.29,16,70,27,5
+SKU-1034,Power Supplie Item 34,Power Supplies,Blue Ridge Parts,53.01,132,28,40,7
+SKU-1035,Networking Item 35,Networking,Peak Systems,105.41,70,65,36,16
+SKU-1036,Switche Item 36,Switches,NovaTech,21.06,118,37,33,16
+SKU-1037,Controller Item 37,Controllers,NovaTech,122.51,173,21,9,15
+SKU-1038,Networking Item 38,Networking,DataCore Supply,144.9,35,30,18,9
+SKU-1039,Power Supplie Item 39,Power Supplies,Omni Industrial,28.67,54,32,35,10
+SKU-1040,Cable Item 40,Cables,Omni Industrial,146.21,148,21,9,20
+SKU-1041,Cable Item 41,Cables,NovaTech,167.04,68,25,32,18
+SKU-1042,Controller Item 42,Controllers,Blue Ridge Parts,156.18,23,25,30,3
+SKU-1043,Controller Item 43,Controllers,DataCore Supply,167.07,208,44,24,16
+SKU-1044,Networking Item 44,Networking,Peak Systems,120.49,132,24,18,12
+SKU-1045,Switche Item 45,Switches,NovaTech,105.94,146,18,53,13
+SKU-1046,Cable Item 46,Cables,NovaTech,106.82,136,69,39,8
+SKU-1047,Cable Item 47,Cables,Peak Systems,18.1,55,19,44,5
+SKU-1048,Networking Item 48,Networking,Blue Ridge Parts,75.06,153,30,43,4
+SKU-1049,Power Supplie Item 49,Power Supplies,NovaTech,77.78,157,51,39,13
+SKU-1050,Sensor Item 50,Sensors,Blue Ridge Parts,121.87,88,30,22,15
+SKU-1051,Switche Item 51,Switches,DataCore Supply,84.47,200,19,6,17
+SKU-1052,Power Supplie Item 52,Power Supplies,Peak Systems,179.31,26,49,19,19
+SKU-1053,Sensor Item 53,Sensors,Blue Ridge Parts,168.25,25,30,29,12
+SKU-1054,Switche Item 54,Switches,Omni Industrial,150.74,188,34,45,19
+SKU-1055,Cable Item 55,Cables,Peak Systems,56.69,177,21,14,11
+SKU-1056,Cable Item 56,Cables,NovaTech,134.67,47,32,24,9
+SKU-1057,Networking Item 57,Networking,DataCore Supply,39.83,170,69,22,19
+SKU-1058,Controller Item 58,Controllers,DataCore Supply,163.34,21,20,46,16
+SKU-1059,Sensor Item 59,Sensors,NovaTech,4.62,205,23,46,11
+SKU-1060,Switche Item 60,Switches,Omni Industrial,101.1,117,50,6,6
